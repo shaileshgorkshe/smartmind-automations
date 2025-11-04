@@ -1,0 +1,12 @@
+<!-- Minimal techy logo for SmartMind Automations -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120" role="img" aria-label="SmartMind Automations logo">
+<rect width="400" height="120" rx="12" fill="#ffffff"/>
+<g transform="translate(24,16)">
+<circle cx="40" cy="40" r="36" fill="#0b74ff"/>
+<path d="M20 40c8-14 28-20 40-10s20 28 8 38c-12 10-34 4-48-8" fill="#ffffff" opacity="0.96"/>
+<g transform="translate(90,18)">
+<text x="0" y="26" font-family="Inter, Roboto, system-ui, -apple-system, sans-serif" font-size="28" fill="#0b2b4f" font-weight="600">SmartMind</text>
+<text x="0" y="52" font-family="Inter, Roboto, system-ui, -apple-system, sans-serif" font-size="14" fill="#546078">Automations • Web Dev • Freelance</text>
+</g>
+</g>
+</svg>
